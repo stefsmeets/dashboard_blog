@@ -1,4 +1,4 @@
-numpy
-scipy
-streamlit
-bokeh==2.4.1
+numpy==1.23
+scipy==1.9
+streamlit==1.11
+bokeh==2.4.3
